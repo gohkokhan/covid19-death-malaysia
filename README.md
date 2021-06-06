@@ -7,7 +7,7 @@ This repo contains the cumulative COVID-19 death cases in Malaysia, updated dail
 
 Each row of data contains the following fields: 
 
-Death Number, State, Gender, Age, Hospital, Medical Background, Link
+Death Number, State, Gender, Age, Hospital, Comorbidity, Link
 
 
 # DATA SOURCE
@@ -20,6 +20,10 @@ Data is in CSV format and updated daily at 20:00 (GMT +8). It is scraped from Fr
 Researchers, Data Scientist, Students, or anyone interested in understanding more about the COVID-19 death cases in Malaysia can use the data for deep-dive analysis.
 
 The Python script to scrape the data is available. You can run it daily to integrate it with your data pipeline.
+
+# DASHBOARD
+
+I've made a simple dashboard to analyse the data. https://datastudio.google.com/reporting/9af48a31-ebb6-43e5-899b-f2fc70c26189
 
 # CONTRIBUTING
 
