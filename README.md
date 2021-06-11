@@ -27,6 +27,8 @@ I've made a simple dashboard to analyse the data. https://datastudio.google.com/
 
 # CONTRIBUTING
 
-Currently, the data is only available from Death Case #142 onwards because I couldn't find a tabular form that I can scrape easily. You can help by completing the data before case #142 or let me know if you find any resources for those death cases. 
+~~Currently, the data is only available from Death Case #142 onwards because I couldn't find a tabular form that I can scrape easily. You can help by completing the data before case #142 or let me know if you find any resources for those death cases.~~
+Thanks to [Samson Teo](https://www.linkedin.com/in/samson-teo-607187210/) for helping to scrape the first 141 death cases. The data is complete with all the COVID-19 Death Cases in Malaysia.
+
 
 
